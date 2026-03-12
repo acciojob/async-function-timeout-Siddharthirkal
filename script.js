@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const btn = document.getElemenById("btn");
+const btn = document.getElementById("btn");
 const output = document.getElementById("output");
 
 function wait(ms){
